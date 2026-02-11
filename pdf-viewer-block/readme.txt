@@ -1,9 +1,9 @@
 === PDF Viewer Block for Gutenberg ===
 Contributors: audrasjb, whodunitagency
 Donate link: https://www.paypal.me/audrasjb
-Tags: Gutenberg, block, PDF, viewer, reader, liseuse, iframe, pdf reader, pdf viewer
+Tags: PDF block, PDF, viewer, reader
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 1.1
 Requires PHP: 5.6
 License: GPLv2
