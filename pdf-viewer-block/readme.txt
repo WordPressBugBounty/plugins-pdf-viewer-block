@@ -3,7 +3,7 @@ Contributors: audrasjb, whodunitagency
 Donate link: https://www.paypal.me/audrasjb
 Tags: PDF block, PDF, viewer, reader
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.1
 Stable tag: 1.1
 Requires PHP: 5.6
 License: GPLv2
